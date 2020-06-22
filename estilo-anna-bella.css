@@ -32,9 +32,7 @@ a{
     padding: 5px; /*Vai ser feito um espaçamento inter*/
 } /*Formatando os links*/
 .bordas{
-    border-color: #c5c5b2;
-    border-width: 10px;
-    border-style: solid;
+    border: 10px solid #c3c3ae;
 }
 .direitos{
     font-weight: 600;
