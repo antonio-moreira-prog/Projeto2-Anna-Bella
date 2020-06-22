@@ -15,7 +15,8 @@ body{
     text-align: center;
 }
 .titulo{
-    color:#505038;/*A ideia dele é criar conteiner para que podessemos definir um padrão, uma largura padrão*/
+    font-size: 1.2em;
+    color:#828271;/*A ideia dele é criar conteiner para que podessemos definir um padrão, uma largura padrão*/
 }
 .paragrafo{
     background-color: #e8e8d9;
