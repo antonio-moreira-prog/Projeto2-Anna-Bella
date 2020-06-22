@@ -1,0 +1,41 @@
+body{
+    background: url('fundo.png');
+    font: 16px Arial, Helvetica, sans-seif;
+    background-repeat: repeat;
+}
+#principal{
+    width: 900px;
+}
+#menu{
+    background: #c5c5b2;
+    padding: 15px;
+    font-weight: 900;
+}
+#rodape{
+    text-align: center;
+}
+.titulo{
+    color:#505038;/*A ideia dele é criar conteiner para que podessemos definir um padrão, uma largura padrão*/
+}
+.paragrafo{
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+.nounderline{
+    text-decoration: underline;
+} 
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px; /*Vai ser feito um espaçamento inter*/
+} /*Formatando os links*/
+.bordas{
+    border-color: #c5c5b2;
+    border-width: 10px;
+    border-style: solid;
+}
+.direitos{
+    font-weight: 600;
+    text-align: center;
+}
